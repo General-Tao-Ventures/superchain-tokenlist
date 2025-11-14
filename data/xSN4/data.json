@@ -3,8 +3,8 @@
   "symbol": "xSN4",
   "decimals": 18,
   "description": "xSN4 Token",
-  "website": "https://www.rubiconbridge.io/",
-  "twitter": "@gtaoventures",
+  "website": "https://www.manifold.inc/",
+  "twitter": "@TargonCompute",
   "tokens": {
     "base": {
       "address": "0x96C3A43918d30a7ca4fc195c7E93A959016a7c26"
