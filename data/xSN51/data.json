@@ -3,8 +3,8 @@
   "symbol": "xSN51",
   "decimals": 18,
   "description": "xSN51 Token",
-  "website": "https://www.rubiconbridge.io/",
-  "twitter": "@gtaoventures",
+  "website": "https://lium.io/",
+  "twitter": "@celiumcompute",
   "tokens": {
     "base": {
       "address": "0x88C23896a91e7f21cba56f4090193730630D5F04"
