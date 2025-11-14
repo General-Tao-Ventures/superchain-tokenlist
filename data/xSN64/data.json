@@ -3,8 +3,8 @@
   "symbol": "xSN64",
   "decimals": 18,
   "description": "xSN64 Token",
-  "website": "https://www.rubiconbridge.io/",
-  "twitter": "@gtaoventures",
+  "website": "https://chutes.ai/",
+  "twitter": "https://x.com/chutes_ai",
   "tokens": {
     "base": {
       "address": "0xbAdd3F2d84605032C1B2AD8cBebb4700Dcd9D7dE"
