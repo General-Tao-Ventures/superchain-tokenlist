@@ -3,8 +3,8 @@
   "symbol": "xSN34",
   "decimals": 18,
   "description": "xSN34 Token",
-  "website": "https://www.rubiconbridge.io/",
-  "twitter": "@gtaoventures",
+  "website": "https://bitmind.ai/",
+  "twitter": "@bitmind",
   "tokens": {
     "base": {
       "address": "0x150E673eC255e87A49cE0848216f07EBb107379e"
