@@ -7,10 +7,7 @@
   "twitter": "@gtaoventures",
   "tokens": {
     "base": {
-      "address": "0x88C23896a91e7f2f1cba56f4090193730630D5F0"
-       },
-    "subtensor": {
-      "address": "0x36899fc109F970d1E94e24C9626074884149CD9"
+      "address": "0x88C23896a91e7f21cba56f4090193730630D5F04"
     }
   }
 }

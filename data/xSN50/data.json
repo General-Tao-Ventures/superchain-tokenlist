@@ -8,9 +8,6 @@
   "tokens": {
     "base": {
       "address": "0x6E352B77796857C01fAc416CC18413a9cD09C1b4"
-       },
-    "subtensor": {
-      "address": "0xDa69E0fc33F6dddC13DC6A3ea47198aEEFB927"
     }
   }
 }
