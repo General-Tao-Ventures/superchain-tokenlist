@@ -1,0 +1,17 @@
+{
+  "name": "xSN56",
+  "symbol": "xSN56",
+  "decimals": 18,
+  "description": "xSN56 Token",
+  "website": "https://www.rubiconbridge.io/",
+  "twitter": "@gtaoventures",
+  "tokens": {
+    "base": {
+      "address": "0xDb3Bc179aC3a78886e277cb83551ceF2fD3e8728"
+       },
+    "subtensor": {
+      "address": "0x3F18Bd7844492A6ED34738C4D2AD486E9299B997"
+    }
+  }
+}
+

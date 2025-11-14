@@ -1,0 +1,17 @@
+{
+  "name": "xSN120",
+  "symbol": "xSN120",
+  "decimals": 18,
+  "description": "xSN120 Token",
+  "website": "https://www.rubiconbridge.io/",
+  "twitter": "@gtaoventures",
+  "tokens": {
+    "base": {
+      "address": "0xA3b335797BF5a2Cc2FC21Cc4286D2b3F40f0771e"
+       },
+    "subtensor": {
+      "address": "0xbB6A51b990C116418033d3648B96C24e995E83A8"
+    }
+  }
+}
+

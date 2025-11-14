@@ -1,0 +1,17 @@
+{
+  "name": "xSN8",
+  "symbol": "xSN8",
+  "decimals": 18,
+  "description": "xSN8 Token",
+  "website": "https://www.rubiconbridge.io/",
+  "twitter": "@gtaoventures",
+  "tokens": {
+    "base": {
+      "address": "0xD321054982b8Aa84785c21E1e2371ebf2e00Eb47"
+       },
+    "subtensor": {
+      "address": "0x30B5F838d479EC994793e576c9463B53B9a8E277"
+    }
+  }
+}
+

@@ -1,0 +1,17 @@
+{
+  "name": "xSN46",
+  "symbol": "xSN46",
+  "decimals": 18,
+  "description": "xSN46 Token",
+  "website": "https://www.rubiconbridge.io/",
+  "twitter": "@gtaoventures",
+  "tokens": {
+    "base": {
+      "address": "0xDc338d54870BF0D93a3EF734b3b30D5ae0318a2e"
+       },
+    "subtensor": {
+      "address": "0xDDd14D0e433c5db4367e337e092928D430c35bBF"
+    }
+  }
+}
+

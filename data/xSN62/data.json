@@ -1,0 +1,17 @@
+{
+  "name": "xSN62",
+  "symbol": "xSN62",
+  "decimals": 18,
+  "description": "xSN62 Token",
+  "website": "https://www.rubiconbridge.io/",
+  "twitter": "@gtaoventures",
+  "tokens": {
+    "base": {
+      "address": "0xA96497307767e57AeA71744B05C1111e1A51eE36"
+       },
+    "subtensor": {
+      "address": "0x0Aea63Ff0fA41DcC1d6641Bf393A0032c2C33f88"
+    }
+  }
+}
+

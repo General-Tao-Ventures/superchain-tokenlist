@@ -1,0 +1,17 @@
+{
+  "name": "xSN35",
+  "symbol": "xSN35",
+  "decimals": 18,
+  "description": "xSN35 Token",
+  "website": "https://www.rubiconbridge.io/",
+  "twitter": "@gtaoventures",
+  "tokens": {
+    "base": {
+      "address": "0x38d50D6398dcBB03F334C4409f61117aD37c1A34"
+       },
+    "subtensor": {
+      "address": "0x2E19cFaEABdF7C738F59F704a1d209C0a146E521"
+    }
+  }
+}
+
