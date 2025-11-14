@@ -4,7 +4,7 @@
   "decimals": 18,
   "description": "xSN120 Token",
   "website": "backprop.finance",
-  "twitter": "@gtaoventures",
+  "twitter": "@BackpropFinance",
   "tokens": {
     "base": {
       "address": "0xA3b335797BF5a2Cc2FC21Cc4286D2b3F40f0771e"
