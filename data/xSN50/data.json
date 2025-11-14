@@ -3,8 +3,8 @@
   "symbol": "xSN50",
   "decimals": 18,
   "description": "xSN50 Token",
-  "website": "https://www.rubiconbridge.io/",
-  "twitter": "@gtaoventures",
+  "website": "https://www.synthdata.co/",
+  "twitter": "@SynthdataCo",
   "tokens": {
     "base": {
       "address": "0x6E352B77796857C01fAc416CC18413a9cD09C1b4"
